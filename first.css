@@ -1,0 +1,25 @@
+.header{
+    background-color: red;
+}
+
+.footer{
+    background-color: red;
+}
+
+.main{
+    background-color: pink;
+}
+
+.left{
+    background-color: green;
+    width:100px;
+}
+
+.right {
+    background-color: blue;
+    width:120px;
+}
+
+.main,.left,.right{
+    min-height: 130px;
+}
