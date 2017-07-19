@@ -29,6 +29,10 @@
     margin-left: -120px;
 }
 
+.content{
+    margin: 0 120px 0 100px;
+}
+
 .main,.left,.right{
     min-height: 130px;
     float: left;
