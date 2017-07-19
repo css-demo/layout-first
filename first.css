@@ -20,11 +20,13 @@
 .left{
     background-color: green;
     width:100px;
+    margin-left: -100%;
 }
 
 .right {
     background-color: blue;
     width:120px;
+    margin-left: -120px;
 }
 
 .main,.left,.right{
