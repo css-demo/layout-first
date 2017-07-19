@@ -4,10 +4,16 @@
 
 .footer{
     background-color: red;
+    clear:both;
 }
 
 .main{
     background-color: pink;
+}
+
+.container{
+    border:1px solid yellow;
+    overflow:hidden ;
 }
 
 .left{
