@@ -22,4 +22,5 @@
 
 .main,.left,.right{
     min-height: 130px;
+    float: left;
 }
